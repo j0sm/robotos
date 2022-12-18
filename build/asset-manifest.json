@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.214e807d.css",
+    "main.js": "/static/js/main.a333431c.js",
+    "static/js/787.32032a02.chunk.js": "/static/js/787.32032a02.chunk.js",
+    "static/media/LEGO BRIX.woff": "/static/media/LEGO BRIX.9b47f6f600ec9110c727.woff",
+    "static/media/SEGA.woff": "/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/index.html",
+    "main.214e807d.css.map": "/static/css/main.214e807d.css.map",
+    "main.a333431c.js.map": "/static/js/main.a333431c.js.map",
+    "787.32032a02.chunk.js.map": "/static/js/787.32032a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.214e807d.css",
+    "static/js/main.a333431c.js"
+  ]
+}

@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'LEGO BRIX Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('LEGO BRIX Regular'), url('LEGO BRIX.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'SEGA LOGO FONT';
+    font-style: normal;
+    font-weight: normal;
+    src: local('SEGA LOGO FONT'), url('SEGA.woff') format('woff');
+    }
+
+h1 {
+    font-family: 'SEGA LOGO FONT';
+    font-weight: 400;
+    color: rgb(255, 0, 217);
+}
